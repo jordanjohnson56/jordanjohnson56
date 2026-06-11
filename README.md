@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @jordanjohnson56
-- 👀 I’m interested in embedded systems security, industrial control systems security, and firmware rehosting.
-- 🌱 I’m currently learning firmware rehosting basics.
-- 📫 How to reach me: email me at jajohnson460@gmail.com
+Security-focused software engineer building tools, pipelines, and systems that make security research possible. Background in vulnerability analysis, reverse engineering, and adversarial testing in complex, real-world environments. Interested in developer-first security, detection engineering, and securing modern infrastructure. I am always open to connecting with fellow engineers, security researchers, or anyone who appreciates a well-designed complex system. Find me on [LinkedIn](https://www.linkedin.com/in/jordan-johnson-security/).
 
 <!---
 jordanjohnson56/jordanjohnson56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
